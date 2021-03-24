@@ -1,2 +1,2 @@
 # video
-[link to video](MyVideo.mp4)
+[link to video](My Video.mp4)
